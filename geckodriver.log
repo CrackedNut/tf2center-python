@@ -1,0 +1,215 @@
+1506467498623	geckodriver	INFO	geckodriver 0.19.0
+1506467498629	geckodriver	INFO	Listening on 127.0.0.1:48281
+1506467499727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zAruLruZz9qn"
+1506467500556	Marionette	INFO	Enabled via --marionette
+1506467503459	Marionette	INFO	Listening on port 32905
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506467503549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506467503584	Marionette	DEBUG	loaded listener.js
+1506467530065	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506467530864	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506467530864	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://tf2center.com/assets/javascript/jquery.jgrowl.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://tf2center.com/assets/javascript/jquery.jgrowl.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1506467531948	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tf2center.com/lobbies"
+1506467531962	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tf2center.com/lobbies"
+1506467531964	Marionette	DEBUG	Received DOM event "pageshow" for "https://tf2center.com/lobbies"
+JavaScript error: https://tf2center.com/assets/stats.js, line 2: SyntaxError: unterminated regular expression literal
+1506467532185	Marionette	DEBUG	Received DOM event "pageshow" for "https://tf2center.com/lobbies"
+1506467542660	geckodriver	INFO	geckodriver 0.19.0
+1506467542665	geckodriver	INFO	Listening on 127.0.0.1:32801
+1506467543761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HfZfJ4Qanwa5"
+1506467544592	Marionette	INFO	Enabled via --marionette
+1506467547413	Marionette	INFO	Listening on port 36537
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506467547508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506467547557	Marionette	DEBUG	loaded listener.js
+1506467547575	geckodriver	INFO	geckodriver 0.19.0
+1506467547580	geckodriver	INFO	Listening on 127.0.0.1:47141
+1506467548678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iy1riuADN5iO"
+1506467549497	Marionette	INFO	Enabled via --marionette
+1506467553190	Marionette	INFO	Listening on port 41689
+1506467553276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506467553321	Marionette	DEBUG	loaded listener.js
+1506467553341	geckodriver	INFO	geckodriver 0.19.0
+1506467553344	geckodriver	INFO	Listening on 127.0.0.1:52561
+1506467554465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BsQ1emGxdI0C"
+1506467555476	Marionette	INFO	Enabled via --marionette
+1506467558269	Marionette	INFO	Listening on port 35577
+1506467558286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506467558337	Marionette	DEBUG	loaded listener.js
+1506467572372	geckodriver	INFO	geckodriver 0.19.0
+1506467572375	geckodriver	INFO	Listening on 127.0.0.1:36177
+1506467573473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.G0ewcqkDoWnT"
+1506467574246	Marionette	INFO	Enabled via --marionette
+1506467576919	Marionette	INFO	Listening on port 39825
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506467576991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506467577026	Marionette	DEBUG	loaded listener.js
+1506467580158	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506467581646	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506467581647	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://tf2center.com/assets/javascript/jquery.jgrowl.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://tf2center.com/assets/javascript/jquery.jgrowl.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1506467582733	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tf2center.com/lobbies"
+1506467582747	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tf2center.com/lobbies"
+1506467582748	Marionette	DEBUG	Received DOM event "pageshow" for "https://tf2center.com/lobbies"
+JavaScript error: https://tf2center.com/assets/stats.js, line 2: SyntaxError: unterminated regular expression literal
+1506467582921	Marionette	DEBUG	Received DOM event "pageshow" for "https://tf2center.com/lobbies"
+1506467843268	Marionette	DEBUG	Received DOM event "beforeunload" for "https://tf2center.com/lobbies"
+1506467844350	Marionette	DEBUG	Received DOM event "pagehide" for "https://tf2center.com/lobbies"
+1506467844350	Marionette	DEBUG	Received DOM event "unload" for "https://tf2center.com/lobbies"
+1506467845004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.return_to=https%3A%2F%2Ftf2center.com%2Fopenid&openid.realm=https%3A%2F%2Ftf2center.com%2Fopenid&openid.mode=checkid_setup"
+1506467845022	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1506467845466	Marionette	DEBUG	Received DOM event "pageshow" for "https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.return_to=https%3A%2F%2Ftf2center.com%2Fopenid&openid.realm=https%3A%2F%2Ftf2center.com%2Fopenid&openid.mode=checkid_setup"
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1506467890496	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1506468327297	Marionette	DEBUG	Received DOM event "beforeunload" for "http://steamcommunity.com/#scrollTop=0"
+1506468327967	Marionette	DEBUG	Received DOM event "pagehide" for "http://steamcommunity.com/#scrollTop=0"
+1506468327968	Marionette	DEBUG	Received DOM event "unload" for "http://steamcommunity.com/#scrollTop=0"
+1506468328441	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1506468329249	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1506468503647	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 413: TypeError: quads is undefined
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1773:11
+send/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1773, column: 11
+console.error: 
+  Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1773:11
+send/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1773, column: 11
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 413: TypeError: quads is undefined
+1506468733068	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/search/top/?q=Alondra%20Abigail"
+1506468733113	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+1506468770446	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1506469334495	Marionette	INFO	New connections will no longer be accepted
+[Child 14400] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14400] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506471057233	geckodriver	INFO	geckodriver 0.19.0
+1506471057238	geckodriver	INFO	Listening on 127.0.0.1:59749
+1506471058335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SQuZjS9CunUn"
+1506471059376	Marionette	INFO	Enabled via --marionette
+1506471062076	Marionette	INFO	Listening on port 39217
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506471062223	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506471062273	Marionette	DEBUG	loaded listener.js
+1506471062292	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506471063235	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506471063236	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506471063802	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1506471064340	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+console.error: 
+  stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yM/l/0,cross/9SG8L8Dr0Y8.css, using system principal instead.
+console.error: 
+  stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yD/l/0,cross/XOFW7yAHrFV.css, using system principal instead.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: this.pageStyle is null
+Full stack: getAuthoredCssText@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/styles.js:1236:1
+PageStyleActor<.getApplied<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/styles.js:455:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: this.pageStyle is null
+Full stack: getAuthoredCssText@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/styles.js:1236:1
+PageStyleActor<.getApplied<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/styles.js:455:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: this.pageStyle is null
+  Stack:
+    getAuthoredCssText@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/styles.js:1236:1
+PageStyleActor<.getApplied<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/styles.js:455:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+getAuthoredCssText@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/styles.js:1236:1
+PageStyleActor<.getApplied<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/styles.js:455:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+*************************
+A coding exception was thrown in a Promise rejection callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.inspector is null
+Full stack: get conn@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/styles.js:97:5
+writeError@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:944:5
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:925:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: this.inspector is null
+  Stack:
+    get conn@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/styles.js:97:5
+writeError@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:944:5
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:925:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+get conn@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/styles.js:97:5
+writeError@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:944:5
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:925:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+*************************
+A coding exception was thrown in a Promise rejection callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.inspector is null
+Full stack: get conn@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/styles.js:97:5
+writeError@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:944:5
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:925:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+1506471150642	geckodriver	INFO	geckodriver 0.19.0
+1506471150649	geckodriver	INFO	Listening on 127.0.0.1:51017
+1506471151743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KtQX51sUR6QL"
+1506471152691	Marionette	INFO	Enabled via --marionette
+1506471155237	Marionette	INFO	Listening on port 36705
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506471155328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506471155377	Marionette	DEBUG	loaded listener.js
+1506471168280	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506471168885	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506471168885	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506471169260	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1506471169764	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1506471208431	Marionette	INFO	New connections will no longer be accepted
+[Child 20332] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
